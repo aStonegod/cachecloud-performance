@@ -1,0 +1,1 @@
+java -jar canal_data_client-dev.jar
